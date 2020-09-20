@@ -8,11 +8,10 @@
 
 这两项改进将大幅降低内存使用量，降低参与门槛。
 
-同时，今天会发布sha512算法的测试版执行文件，矿工可使用该执行文件测试设备性能。 
+同时，今天会发布[sha512算法的测试版执行文件](https://github.com/filecoincash/filecoincash_doc/releases/tag/benchy-sha512-beta) ，矿工可使用该执行文件测试设备性能。 
 
 [3800X/i7-8700 SHA512 对比结果](./bench/README.md)
 
-[bench-beta](https://github.com/filecoincash/filecoincash_doc/releases/tag/benchy-sha512-beta) 
 
 使用方法参考：https://github.com/filecoincash/filecoincash_doc/bench/
 
@@ -63,11 +62,9 @@ I'm very glad that the FilecoinCash community was officially established on Sept
 - The number of package layers in P1 is changed to 5.
 
 These two improvements will significantly reduce memory usage and reduce the threshold of participation.
-At the same time, the test version of SHA512 will be released today, which can be used by miners to test equipment performance.
+At the same time, [the test version of SHA512](https://github.com/filecoincash/filecoincash_doc/releases/tag/benchy-sha512-beta)  will be released today, which can be used by miners to test equipment performance.
 
 [3800X/i7-8700 SHA512 comparison results](./bench/README.md)
-
-[bench-beta](https://github.com/filecoincash/filecoincash_doc/releases/tag/benchy-sha512-beta) 
 
 Use method reference: https://github.com/filecoincash/filecoincash_doc/bench/
 
