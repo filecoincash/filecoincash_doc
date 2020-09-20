@@ -10,6 +10,8 @@
 
 同时，今天会发布sha512算法的测试版执行文件，矿工可使用该执行文件测试设备性能。 
 
+[3800X/i7-8700 SHA512 对比结果](./bench/README.md)
+
 [bench-beta](https://github.com/filecoincash/filecoincash_doc/releases/tag/benchy-sha512-beta) 
 
 使用方法参考：https://github.com/filecoincash/filecoincash_doc/bench/
@@ -27,7 +29,7 @@ nohup env FIL_PROOFS_USE_GPU_COLUMN_BUILDER=1 FIL_PROOFS_USE_GPU_TREE_BUILDER=1 
 	"porep_partitions" : 1,
 	"post_challenges" : 20,
 	"post_challenged_nodes" : 2,
-	"stacked_layers" : 3,
+	"stacked_layers" : 5,
 	"num_sectors" : 1
 }
 ```
@@ -63,6 +65,8 @@ I'm very glad that the FilecoinCash community was officially established on Sept
 These two improvements will significantly reduce memory usage and reduce the threshold of participation.
 At the same time, the test version of SHA512 will be released today, which can be used by miners to test equipment performance.
 
+[3800X/i7-8700 SHA512 comparison results](./bench/README.md)
+
 [bench-beta](https://github.com/filecoincash/filecoincash_doc/releases/tag/benchy-sha512-beta) 
 
 Use method reference: https://github.com/filecoincash/filecoincash_doc/bench/
@@ -80,7 +84,7 @@ nohup env FIL_PROOFS_USE_GPU_COLUMN_BUILDER=1 FIL_PROOFS_USE_GPU_TREE_BUILDER=1 
 	"porep_partitions" : 1,
 	"post_challenges" : 20,
 	"post_challenged_nodes" : 2,
-	"stacked_layers" : 3,
+	"stacked_layers" : 5,
 	"num_sectors" : 1
 }
 ```
