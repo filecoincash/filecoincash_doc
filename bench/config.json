@@ -4,6 +4,6 @@
 	"porep_partitions" : 1,
 	"post_challenges" : 20,
 	"post_challenged_nodes" : 2,
-	"stacked_layers" : 3,
+	"stacked_layers" : 5,
 	"num_sectors" : 1
 }
