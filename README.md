@@ -1,4 +1,9 @@
 # FilecoinCash 公告
+
+Slack: https://app.slack.com/client/T01AAUACNG5/C01AE1HGVQA 
+Github: https://github.com/filecoincash
+
+
 [English version](#FilecoinCash-Notice)
 
 很高兴FilecoinCash社区在9月18日正式成立，将于9月19日晚些时候开放Github代码库，前期出于保护项目的考虑，测试阶段只会开放部分源代码，在主网上线前开源全部代码。
@@ -34,6 +39,7 @@ nohup env FIL_PROOFS_USE_GPU_COLUMN_BUILDER=1 FIL_PROOFS_USE_GPU_TREE_BUILDER=1 
 ```
 
 社区宣布成立后，经过大量社区意见沟通，大部分矿工提议希望给一些测试时间，预先准备好设备测试之后再开启测试奖励网，在此期间会与社区及矿工进行充分沟通，制定一份符合社区及矿工期望的测试奖励网规则。
+
 
 
 #### 在下一个版本里，将会有更大的更新：
